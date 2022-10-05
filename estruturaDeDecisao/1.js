@@ -8,7 +8,7 @@ switch (soma >= 50) {
         break;
 }
 /*
-1 forma e fazer 
+outra forma de fazer 
 
 const soma = num1 + num2
 if(soma >= 50){
