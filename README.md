@@ -1,5 +1,5 @@
 # Condicionais
-Exercícios para reforçar lógica de prograação e praticas do javascript. Usando condicionais e código limpo.
+Exercícios para reforçar lógica de programação e praticas do javascript. Usando condicionais e código limpo.
 
 
 
